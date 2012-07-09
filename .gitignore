@@ -1,0 +1,5 @@
+.gitignore
+*.suo
+*.user
+GeneticColors/bin
+GeneticColors/obj
